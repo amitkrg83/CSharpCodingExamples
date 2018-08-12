@@ -975,7 +975,7 @@ ol {
 
 .footer-section {
 	background-color: #020031;
-	background-image: url("../img/footer-bg.png");
+	background-image: url("/images/footer-bg.png");
 	background-repeat: no-repeat;
 	background-position: center 75px;
 }
